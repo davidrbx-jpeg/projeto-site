@@ -5,14 +5,14 @@
 }
 
 body {
-    background-color: rgb(56, 54, 54);
+    background-color: rgb(15, 12, 12);
 
 }
 
 main {
-    background-color: aliceblue;
+    background-color: rgb(134, 4, 4);
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px black;
+    box-shadow: 3px 3px 5px rgb(253, 251, 251);
 }
